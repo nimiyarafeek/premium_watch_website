@@ -4,7 +4,7 @@ A premium, fully responsive, and animated product landing page for the **DAXIAOY
 
 ## 🔗 Links
 
-* **Live Demo:** [https://nimiyarafeek.github.io/premium_watch_website/](https://nimiyarafeek.github.io/premium_watch_website/)
+* **Live Demo:** [https://github.com/nimiyarafeek/premium_watch_website]
 * **GitHub Repository:** [https://github.com/nimiyarafeek/premium_watch_website](https://github.com/nimiyarafeek/premium_watch_website)
 
 ---
